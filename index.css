@@ -407,11 +407,11 @@ body:not(.user-is-tabbing) a:focus {
     
     /* HOME BACKGROUND IMAGE GOES HERE */
     background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('./images/header.jpg');
+        url('https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=1685577600&v=beta&t=wFFoBqGZB43IfKDSxlH_WEpIxgaLhbzMORZJO459pcs');
     height: 100vh;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    background-size: contain;
+    background-position: right;
+    /* background-attachment: fixed; */
     font-size: var(--font-size-normal);
 }
 
