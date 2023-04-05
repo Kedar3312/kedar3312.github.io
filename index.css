@@ -407,7 +407,7 @@ body:not(.user-is-tabbing) a:focus {
     
     /* HOME BACKGROUND IMAGE GOES HERE */
     background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=1685577600&v=beta&t=wFFoBqGZB43IfKDSxlH_WEpIxgaLhbzMORZJO459pcs');
+        url('https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif');
     height: 100vh;
     background-size: contain;
     background-position: right;
